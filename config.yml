@@ -1,0 +1,14 @@
+queues:
+ example:
+  maxPlayers: 5
+  countdownSeconds: 30
+  commands:
+   - "say Queue finished for %player%"
+   - "give %player% diamond 1"
+
+
+ pvp:
+  maxPlayers: 2
+  countdownSeconds: 10
+  commands:
+   - "say %player% is entering PvP"

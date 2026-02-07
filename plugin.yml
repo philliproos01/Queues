@@ -1,0 +1,10 @@
+name: Queues
+author: DrPingu
+version: 1.0.0
+main: com.epic.queues.Queues
+api-version: 1.21
+commands:
+ queuejoin:
+  usage: /queuejoin <queue>
+ queueleave:
+  usage: /queueleave
